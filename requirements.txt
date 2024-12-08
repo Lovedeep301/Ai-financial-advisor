@@ -1,0 +1,7 @@
+python-dotenv
+pandas
+gspread
+oauth2client
+openai==0.28.0
+pdfkit
+gradio
